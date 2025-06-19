@@ -1,2 +1,6 @@
-<h1>Experimenting with creating an AI agent</h1>
+# Experimenting with AutoGen
+
+1. install autogen chat agent
+    - pip install -U "autogen-agentchat" "autogen-ext[openai]"
+    - pip install -U "autogenstudio"
 
